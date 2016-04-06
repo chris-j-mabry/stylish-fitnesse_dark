@@ -8,3 +8,5 @@ CSS for a dark Fitnesse color scheme using the Stylish extension in Chrome
 4. Copy paste the CSS into the Code box
 5. Name the Style and save.
 6. If you have multiple Fitnesse domains, you can add more rules under the code box in Stylish (localhost vs remote server, etc)
+
+![Alt text](/fitScreenShot.png?raw=true "FitNesse dark color scheme")
